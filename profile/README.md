@@ -13,7 +13,7 @@ Learn more at: https://quasar.codes
 
 ### Question?
 
-Come say hello in our [discussions](https://github.com/Quasars/orange-spectroscopy/discussions) area or [contact us](https://quasar.codes/contact/) directly.
+Come say hello in our [discussions](https://github.com/orgs/Quasars/discussions) area or [contact us](https://quasar.codes/contact/) directly.
 
 ### I have some code to contribute, where should it go?
 
